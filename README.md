@@ -23,5 +23,3 @@ My attempt at making a Spy game for myself
 6. User stops timer or time out
 
 7. Choice of the winning side
-
-https://docs.microsoft.com/ru-ru/learn/modules/introduction-to-xamarin-android/5-exercise-add-views-to-the-tipcalculator-app-ui
